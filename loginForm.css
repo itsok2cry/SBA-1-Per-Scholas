@@ -1,0 +1,48 @@
+body{
+    background: #fde994; 
+}
+
+form{
+    border: 1px solid black;
+    height: 350px;
+    width: 300px;
+    background: rgb(222, 221, 221);
+    text-align: center;
+    box-shadow: 5px 5px 5px  rgba(0, 0, 0, 0.591);
+    margin: 0 auto;
+}
+   
+
+form input {
+    background: rgb(214, 208, 208);
+    height: 30px;
+    text-align: center;
+}
+
+.gifContainer{
+    display: flex;
+    justify-content: center;
+}
+/* css animations */
+
+form button{
+    background: #d9b650; 
+    width: 130px;
+    height: 30px;
+    transition: background-color 2s, color 1s, border 2s;
+
+    
+}
+button:hover {
+    background-color:rgb(222, 221, 221);
+    color:rgb(222, 221, 221);
+    border:rgb(222, 221, 221);
+}
+a{
+    transition: background-color 1s, color 1s,;
+}
+a:hover{
+    background-color:rgb(222, 221, 221);
+    color:rgb(222, 221, 221);
+}
+
