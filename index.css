@@ -1,13 +1,5 @@
-body{
-    background-image: url('images & gifs/cofeeBackground.jpg');
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    height: 100vh;
-    width: 100%;
-    color:  #83580b; 
-}
-a{
+
+div a{
     color: #83580b;
     text-decoration: none;
     font-size: 20px;
